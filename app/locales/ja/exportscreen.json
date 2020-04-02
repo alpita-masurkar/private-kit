@@ -1,0 +1,11 @@
+{
+    "export_para_1":"下記の共有ボタンを押すとあなたの移動情報を、誰とでも共有できます。共有ボタンを押すと共有相手、共有方法の入力が求められます。",
+    "export_para_2":"位置情報は、時間と座標からなるシンプルなリストとして共有されます。その他の情報の公開は行われません。",
+    "share":"共有する",
+    "data_hint":"このログのデータは",
+    "data_covers":"Total time the log covers:",
+    "data_count":"Number of points logged:",
+    "data_last_updated":"Time since last updated:",
+    "no_data": "No data",
+    "less_than_one_minute": "less than 1 minute"
+}
