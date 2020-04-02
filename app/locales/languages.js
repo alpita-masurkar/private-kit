@@ -25,6 +25,7 @@ import knlabels from './kn';
 import calabels from './ca';
 import gjlabels from './gj';
 import cslabels from './cs';
+import jalabels from './ja';
 
 // This will fetch the user's language
 let userLang = undefined;
@@ -114,7 +115,12 @@ i18next.init({
     gj: {
       translation: {
         label: gjlabels,
-      }
+      },
+    },
+    ja: {
+      translation: {
+        label: jalabels,
+      },
     },
     cs: {
       translation: {
