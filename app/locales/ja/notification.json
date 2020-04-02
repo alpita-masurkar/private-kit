@@ -1,0 +1,8 @@
+{
+    "notification_main_text": "感染を疑われる人との接触をチェックする",
+    "notification_title": "接触点の分析",
+    "notification_data_not_available": "\n\n行動履歴がダウンロードされていません!\n\n",
+    "notification_warning_text": "下のボタンを押すとランダムに接触点を生成する事が出来ます。\n注意: このデータはシミューレーションされた接触点であり、実際のデータではありません。",
+    "notification_random_data_button": "このボタンを押しランダムにデータを生成する",
+    "notifications":"お知らせ"
+}
