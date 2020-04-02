@@ -1,0 +1,13 @@
+{
+    "start_logging":"記録の開始",
+    "stop_logging":"記録を停止する",
+    "logging_message":"現在５分毎にあなたの位置情報を記録しています。あなたの位置情報は携帯から勝手に引き出されません。",
+    "not_logging_message":"注意:このボタンをクリックした後に、Private Kitにあなたの位置条件を付与するように求められる場合があります。",
+    "import":"インポート",
+    "export":"エクスポート",
+    "news":"ニュース",
+    "latest_news":"最新のニュース",
+    "url_info":"さらなる情報はPrivate Kit homepageをご参照ください。:",
+    "private_kit_url":"privatekit.mit.edu",
+    "overlap": "CHECK OVERLAP"
+}
