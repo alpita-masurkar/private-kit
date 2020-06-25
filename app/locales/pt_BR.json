@@ -148,7 +148,7 @@
     "launch_set_up_phone_bluetooth": "Feito",
     "launch_set_up_phone_location": "Configurar meu celular",
     "launch_subheader": "Não se preocupe, a informação não sai do seu aparelho, a não ser que você decida compartilhar.",
-    "legal_page_address": "PathCheck Foundation\n 58 Day Street \n Box 441621 \n Somerville, MA 02144",
+    "legal_page_address": "PathCheck \n 58 Day Street \n Box 441621 \n Somerville, MA 02144",
     "legal_page_header_bluetooth": "BT do PathCheck",
     "legal_page_header_location": "GPS do PathCheck",
     "loading_public_data": "carregando dados...",
@@ -161,7 +161,6 @@
     "logging_inactive_bluetooth": "Notificações de exposição inativas",
     "logging_inactive_location": "Localização Inativa",
     "news_subtitle": "Leia as últimas atualizações sobre COVID de sua autoridade de saúde e em geral.",
-    "authorities_new_in_area_msg_plural": "Se inscreva em {{count}} novas autoridades de saúde de confiança em sua área.",
     "news_title": "Últimas notícias",
     "no_data": "Sem dados",
     "privacy_policy": "Política de Privacidade",
@@ -173,7 +172,8 @@
     "team": "Equipe",
     "team_para": "Nossa equipe é formada por epidemiologistas, engenheiros, cientistas de dados, especialistas em privacidade digital, professores e pesquisadores de instituições renomadas, como: MIT, Harvard, The Mayo Clinic, TripleBlind, EyeNetra, Ernst & Young, e Link Ventures.",
     "terms_of_use": "Termos de uso",
-    "unknown": "desconhecido"
+    "unknown": "desconhecido",
+    "authorities_new_in_area_msg_plural": "Se inscreva em {{count}} novas autoridades de saúde de confiança em sua área."
   },
   "onboarding": {
     "eula_checkbox": "Eu aceito o acordo de licenciamento",
